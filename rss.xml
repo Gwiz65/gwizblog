@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Gwiz Blog</title>
+<link>http://www.gwiz.blog.lc/</link>
+<description>My thoughts on stuff</description>
+<language>en-US</language>
+<copyright>Copyright 2017 Gwiz</copyright>
+<lastBuildDate>Sat, 09 Sep 2017 17:42:23 -0400</lastBuildDate>
+<pubDate>Sat, 09 Sep 2017 17:42:23 -0400</pubDate>
+<generator>Thingamablog 1.5.1</generator>
+
+<item>
+<title>Welcome</title>
+<description>
+&lt;p&gt;&lt;font face=&quot;sans-serif&quot;&gt;Welcome to my blog.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt; &lt;font face=&quot;sans-serif&quot;&gt;I plan on using this space to try my
+hand at...&lt;/font&gt;&lt;/p&gt;
+</description>
+<link>http://gwiz.blog.lc/archives/2017/09/entry_3.html</link>
+<guid>http://gwiz.blog.lc/archives/2017/09/entry_3.html</guid>
+
+<category>gwiz</category>
+
+<category>techdirt</category>
+
+<category>thegwizblog</category>
+
+<pubDate>Sat, 09 Sep 2017 17:41:52 -0400</pubDate>
+</item>
+
+<item>
+<title>Why I Post Anonymously</title>
+<description>
+&lt;p&gt; &lt;font face=&quot;sans-serif&quot;&gt;You might notice that I do not attach a
+lot of personal information to my online persona. This
+is...&lt;/font&gt;&lt;/p&gt;
+</description>
+<link>http://gwiz.blog.lc/archives/2017/08/entry_5.html</link>
+<guid>http://gwiz.blog.lc/archives/2017/08/entry_5.html</guid>
+
+<category>anonymity</category>
+
+<category>gwiz</category>
+
+<category>thegwizblog</category>
+
+<pubDate>Sat, 26 Aug 2017 09:57:39 -0400</pubDate>
+</item>
+
+</channel>
+</rss>
